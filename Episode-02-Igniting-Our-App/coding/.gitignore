@@ -1,4 +1,7 @@
-/node_modules
-/dist
 .parcel-cache
-
+/node_modules
+package.json
+package-lock.json
+README.md
+/dist
+.gitignore
